@@ -15,9 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
     "concurrently": "^4.1.0",
     "create-react-app": "^2.1.8",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "muicss": "^0.9.41",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-responsive-modal": "^3.6.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"

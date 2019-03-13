@@ -1,0 +1,22 @@
+.driver-list-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.driver-header {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 30px;
+    font-family: Bogle;
+}
+
+.driver-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.tile {
+    width: 280px;
+    height: 220px;
+ margin: 20px;
+}

@@ -1,0 +1,10 @@
+.mapContainer{
+    position: relative;
+    width: 600px;
+    margin:  auto;
+}
+
+
+.mapboxgl-canvas {
+    left: 0;
+}

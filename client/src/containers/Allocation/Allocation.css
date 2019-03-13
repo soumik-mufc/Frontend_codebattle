@@ -1,0 +1,43 @@
+.driver-list-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.driver-header {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 30px;
+    font-family: Bogle;
+}
+
+.driver-container {
+    width: 90%;
+    margin: 0 auto;
+}
+.clickable-tile {
+    width: 280px;
+    height: 220px;
+ margin: 20px;
+}
+.clickable-tile:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+.modal-header {
+    margin-top: 20px;
+}
+
+.modal-display {
+    display: flex;
+}
+
+.color-legend {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 5px; 
+}
+
+.map-display {
+    flex: 0 0 70%;
+}
